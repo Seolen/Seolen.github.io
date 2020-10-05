@@ -1,3 +1,13 @@
+# Homepage: Shuailin Li
+## Grauduate Student
+- School of Information Science and Technology (SIST)
+
+- ShanghaiTech University
+
+## Contact
+- Email: lishl@shanghaitech.edu.cn
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Seolen/Seolen.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
